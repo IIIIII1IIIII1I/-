@@ -1,2 +1,2 @@
-local Webhook = "https://discord.com/api/webhooks/1096861478432288878/juhusRKxnyQugh-8Zjab12BUssO_zV6bMty7frQxMrDEAgV0M3SxB_bLItJHldQErcPN"
+local Webhook = "https://discord.com/api/webhooks/1096886169012273292/df9DdTkLddtOWdxpBT--Rrt-xi98EZbvHHQOIj3m9rZUGxDMXK56km41TuGsjQfv_80M"
 return Webhook
